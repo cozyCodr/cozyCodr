@@ -1,6 +1,6 @@
 # Bright Londa
 
-**Software engineer in Lusaka, Zambia, building useful products, dependable backends, and the occasional strange experiment.**
+**Software engineer and founder of [Atlas Creative House](https://atlascreativehouse.com) and [oApps](https://oapps.dev), based in Lusaka, Zambia. I build useful products, dependable backends, and the occasional strange experiment.**
 
 [Portfolio](https://www.brightl.dev) · [Products](https://oapps.dev) · [Writing](https://www.brightl.dev/blog) · [LinkedIn](https://www.linkedin.com/in/bright-londa) · [Email](mailto:direct@brightl.dev)
 
@@ -17,7 +17,7 @@ I work across TypeScript/Node, Go, Python, Java/Spring Boot, PostgreSQL, React, 
 | [Lipila SDK](https://www.npmjs.com/package/@cozycodr/lipila) | A community TypeScript SDK for Lipila payments. I am currently preparing its first usable public release, with mobile-money, hosted-card, webhook, reconciliation, and durable lifecycle support. |
 | [AI Text Tool](https://www.npmjs.com/package/ai-text-tool) | A published Editor.js plugin that adds AI-assisted writing to block editors. Also available [on GitHub](https://github.com/cozyCodr/ai-text-tool). |
 | [Fika: Time to Care](https://fika-casestudy.vercel.app) | An interactive data story showing how one river crossing changes access to clinics and schools in rural Zambia. |
-| [LCI 2027 Lusaka](https://lci2027lusaka.com) | The event and travel website for the 2027 Ladies Circle International AGM in Lusaka, covering registration, accommodation, the programme, and tours across Zambia. |
+| [LCI 2027 Lusaka](https://lci2027lusaka.com) | An event management platform for the 2027 Ladies Circle International AGM in Lusaka, including the public event website and two native mobile apps. |
 
 `oapps.dev` is becoming the home for the products I build and maintain, including Collekta, Tulo, and developer tools for African payment gateways.
 
